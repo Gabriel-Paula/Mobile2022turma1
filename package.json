@@ -1,5 +1,5 @@
 {
-  "name": "mobilegabrielc",
+  "name": "projeto02",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
+    "@expo/ngrok": "^4.1.0",
     "@types/react": "~17.0.21",
     "@types/react-native": "~0.64.12",
     "typescript": "~4.3.5"
